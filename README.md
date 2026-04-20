@@ -13,4 +13,4 @@ This project develops predictive models using text mining and machine learning t
 - Feature selection using information gain  
 - Cost-sensitive analysis for business impact   
 
-**Outcome:** Developed robust predictive models and identified key textual and behavioral factors influencing ratings, review impact, and reviewer credibility.
+**Outcome:** Developed robust predictive models and identified key textual and explanatory variables influencing ratings, review impact, and reviewer credibility.
